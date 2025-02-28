@@ -9,3 +9,4 @@ Desenvolvi testes automatizados de interface (UI) para uma aplicação web utili
 
 Esses testes têm como objetivo melhorar a qualidade e a confiabilidade da aplicação, além de otimizar o processo de testes manuais.
 
+[![Vídeo de Funcionamento](https://img.youtube.com/vi/XZ3Us12UnKY/0.jpg)](https://youtu.be/XZ3Us12UnKY)
