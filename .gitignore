@@ -1,0 +1,10 @@
+# Ignorar arquivos HTML
+*.html
+
+# Ignorar arquivos XML
+*.xml
+
+# Ignorar arquivos de log
+*.log
+
+*.png
