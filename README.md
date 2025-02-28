@@ -1,4 +1,5 @@
-# Automação com Robot Framework
+# Automação com Robot Framework   
+<img src="https://cdn.3dsupply.de/media/cache/b3/b1/b3b116e1294ecb86fd85b1fdad309d82.jpg" alt="Robot" height="50" />
 
 Desenvolvi testes automatizados de interface (UI) para uma aplicação web utilizando **Robot Framework**. Abaixo estão os principais pontos do projeto:
 
